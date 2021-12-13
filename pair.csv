@@ -1,0 +1,102 @@
+ID,Recipient_name,Recipient_glottocode,Recipient_iso639-3,Recipient_genus,Donor_name,Donor_glottocode,Donor_iso639-3,Donor_genus,reliability,number_of_interrelated_affixes,number_of_borrowed_affixes,Area,References,Adjectivizer_or_Adverbializer,Particle,Case_Suffixes,Noun,Nominalizer,Number_and_Numeral_Representations,Valency_Changing_Verbal_Suffixes,Verb
+http://afbo.info/pairs/1,Resígaro,resi1247,rgr,Arawakan,Bora,bora1263,boa,Boran,high,46,50,South America,"seifartbora2011, seifartprinciple2012, seifartresigaro2009, allingrammar1976",0,0,1,41,0,6,0,2
+http://afbo.info/pairs/2,Gurindji Kriol,guri1249,,English-based,Gurindji,guri1247,gue,Pama-Nyungan,high,17,19,Australia & New Guinea,"meakinsborrowing2011, meakinscasemarking2007, mcconvellgurindji2005",0,0,6,3,2,8,0,0
+http://afbo.info/pairs/4,Copper Island Aleut,medn1235,mud,Aleut,Russian,russ1263,rus,Slavic,high,14,15,Eurasia,"golovkoaleut1990, sekerinacopper1994, thomasonmednyj1997",0,0,0,0,0,0,0,15
+http://afbo.info/pairs/5,Sakha,yaku1245,sah,Turkic,Mongolian,halh1238,khk,Mongolic,high,9,14,Eurasia,"kaluzynskimongolische1962, korkinagrammatika1982, pakendorfcomparison2012, pakendorfcopied2010",5,0,0,0,5,2,0,2
+http://afbo.info/pairs/6,Kalderash Romani,vlax1238,rmy,Indic,Romanian,roma1327,ron,Romance,high,6,11,Eurasia,"boretzkymorphologische1991, boretzkyromani1994",1,0,0,2,6,2,0,0
+http://afbo.info/pairs/7,Sebjan‑Küöl Ėven,even1260,eve,Tungusic,Sakha,yaku1245,sah,Turkic,high,21,22,Eurasia,"pakendorfintensive2009, pakendorfcomparison2012, pakendorfcopied2010",0,0,0,0,0,1,0,21
+http://afbo.info/pairs/8,Northern Tajik,taji1245,tgk,Iranian,Uzbek,nort2690,uzn,Turkic,mid,9,11,Eurasia,"doerferturkische1967, rastorguevaopyt1964, boretzkymorphologische2004",1,0,6,0,2,2,0,0
+http://afbo.info/pairs/10,Indonesian,indo1316,ind,Malayic,Sanskrit,sans1269,san,Indic,high,18,18,Southeast Asia & Oceania,"verhaarloanwords1984, purwoaffixation1984, kayeindonesian2007, tadmorloanwords20091",0,0,0,0,2,16,0,0
+http://afbo.info/pairs/11,Uchur Ėvenki,even1259,evn,Tungusic,Sakha,yaku1245,sah,Turkic,high,7,8,Eurasia,"urelandrussian2003, boeschotenyakut2006, myreevaocerk1964",0,0,0,0,0,1,0,7
+http://afbo.info/pairs/12,Middle English,midd1317,enm,Germanic,Norman French,angl1258,xno,Romance,high,7,8,Eurasia,"daltonpufferfrench1996, palmerborrowings2009, ciszekword2008",1,0,0,0,7,0,0,0
+http://afbo.info/pairs/13,Chabacano,chav1241,cbk,Spanish-based,Visayan,bisa1268,,Meso-Philippine,high,5,8,Southeast Asia & Oceania,"steinkrugertransfer2009, steinkrugermorphological2003, seifartdirect2013",3,0,0,0,1,1,1,2
+http://afbo.info/pairs/14,Bilin,bili1260,byn,Central Cushitic,Tigre,tigr1270,tig,Semitic,high,8,8,Africa,"kayebilin2007, hamdeorigin1986, reinischbilinsprache1882",0,0,0,0,0,0,0,8
+http://afbo.info/pairs/15,Albanian,gheg1238,aln,Albanian,Bosnian/Croatian/Serbian,serb1264,srp,Slavic,high,13,14,Eurasia,"xhuvaniprapashtesat1962, orelalbanian1998, svaneslavische1992, boretzkymorphologische2004, demirajgjuha1988",4,0,0,0,9,0,0,1
+http://afbo.info/pairs/16,Cajamarca Quechua,caja1238,qvc,Quechuan,Spanish,stan1288,spa,Romance,high,7,7,South America,"quesadacastillodiccionario1976, quesadacastillogrammatica1976, muyskenspanish2012",3,0,0,1,3,0,0,0
+http://afbo.info/pairs/17,Uru,uruu1244,ure,Uru-Chipaya,Aymara,cent2142,ayr,Aymaran,high,3,6,South America,"hannsuchumataqu2008, muyskenidioma2005, metrauxcontribution1935, vellardcontribucion1967",0,2,3,0,0,1,0,0
+http://afbo.info/pairs/18,Israeli Hebrew,hebr1245,heb,Semitic,Russian,russ1263,rus,Slavic,high,6,6,Eurasia,"kayeisraeli2007, bolozkymeasuring1999, cohenhebrew2012, schwarzwaldinflection1998",0,0,0,1,5,0,0,0
+http://afbo.info/pairs/19,Indonesian,indo1316,ind,Malayic,Dutch,dutc1256,nld,Germanic,high,13,13,Southeast Asia & Oceania,"devriesadaptation1984, verhaarloanwords1984, purwoaffixation1984, kayeindonesian2007, tadmorloanwords20091",0,0,0,0,13,0,0,0
+http://afbo.info/pairs/20,Cappadocian Greek,capp1239,cpg,Greek,Turkish,nucl1301,tur,Turkic,high,2,5,Eurasia,"dawkinsmodern1916, janseagglutination2009, jansegreekturkish2009",0,0,0,0,1,0,1,3
+http://afbo.info/pairs/21,Kormakiti,cypr1248,acy,Semitic,Greek,mode1248,ell,Greek,high,5,5,Eurasia,"lentinoppositions2003, tsiaperagreek1964, kossmannnature2008, borgcypriot1985, kossmanninflectional2011, rothverbe1979, newtonarabicgreek1964",0,0,0,3,0,2,0,0
+http://afbo.info/pairs/22,Siwi,siwi1239,siz,Berber,Libyan Arabic,liby1240,ayl,Semitic,high,4,5,Africa,"souagsiwa2009, souaggrammatical2010",2,0,0,0,2,0,0,1
+http://afbo.info/pairs/23,Warndarang,wand1263,wnd,Maran,Nunggubuyu,nung1290,nuy,Nunggubuyu,mid,5,5,Australia & New Guinea,"heathlinguistic1978, heathfunctional1984, heathbasic19801",0,0,2,3,0,0,0,0
+http://afbo.info/pairs/25,Albanian,gheg1238,aln,Albanian,Turkish,nucl1301,tur,Turkic,high,4,6,Eurasia,"gardaniborrowing2008, xhuvaniprapashtesat1962, orelalbanian1998, boretzkyturkische1975, fiedlerpluralbildung1977",1,0,0,0,4,1,0,0
+http://afbo.info/pairs/26,Garifuna,gari1256,cab,Arawakan,Carib,gali1262,car,Cariban,mid,,2,South America,"petgrammar2011, escuregrammaticalizaion2012, hoffevidentiality1986, derbyshirecarib1999, escuregarifuna2004, depurygarifuna2001, taylormorpheme1959, taylordiachronic1954, taylorlanguages1977, taylorisland1956, grantcontactinduced2010, taylorlinguistic1980, chamoreaugenero2005",0,0,0,0,0,2,0,0
+http://afbo.info/pairs/27,Mari,east2328,mhr,Finnic,Chuvash,chuv1255,chv,Turkic,mid,6,12,Eurasia,"kangasmaaminnmari1998, bereczkitschuwaschische1979, wiedemannversuch1847, bekecseremisz1911, budenzcseremisz1864, galkinistoritsheskaja1964, raunessays1971, bereczkiaz2002, bereczkicharacter1993, magistesuffixentlehnung1968",1,0,5,1,1,1,2,1
+http://afbo.info/pairs/28,Chantyal,chan1310,chx,Bodic,Nepali,nepa1252,nep,Indic,high,4,4,Eurasia,"noonanchantyal2005, noonanrise1996, noonancontactinduced2008, noonanchantyal2003",0,0,4,0,0,0,0,0
+http://afbo.info/pairs/29,Ritharngu,rita1239,rit,Pama-Nyungan,Ngandi,ngan1295,nid,Ngandi,mid,,4,Australia & New Guinea,"heathbasic1980, heathlinguistic1978",0,0,1,0,0,2,0,1
+http://afbo.info/pairs/31,Guina‑ang Bontok,cent2083,bnc,Northern Philippines,Ilokano,ilok1237,ilo,Northern Philippines,high,,3,Southeast Asia & Oceania,,0,0,0,0,1,0,0,2
+http://afbo.info/pairs/33,Sonqor Turkic,nucl1301,tur,Turkic,Kurdish,nort2641,kmr,Iranian,mid,2,5,Eurasia,"csatoiranian2005, bulutturkic, blaumanuel1980, bulucmendeli1975, bulutiraqi2007, kossmanninflectional2011",1,1,0,1,0,0,0,2
+http://afbo.info/pairs/34,Ngandi,ngan1295,nid,Ngandi,Ritharngu,rita1239,rit,Pama-Nyungan,mid,2,2,Australia & New Guinea,"heathlinguistic1978, heathngandi1978",0,0,2,0,0,0,0,0
+http://afbo.info/pairs/35,Danisi,naro1249,nhr,Central Khoisan,Kxoe languages,khoe1241,,Central Khoisan,low,2,2,Africa,hiedapatterns2011,0,0,0,0,0,0,0,2
+http://afbo.info/pairs/37,Istro‑Romanian,istr1245,ruo,Romance,Croatian,croa1245,hrv,Slavic,mid,8,8,Eurasia,"gardaniborrowing2008, salaproblema1988, hurrenverbal1969, holtusrumanisch1989, kovacecdescrierea1971, breuzur1992, boretzkymorphologische2004, rozencvejginterference1976, breuuberlegungen1996",0,0,0,0,0,0,0,8
+http://afbo.info/pairs/39,Koasati,koas1236,cku,Muskogean,Quapaw,quap1242,qua,Siouan,mid,,1,North America,shipleyquapaw1988,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/40,Hasankeyf Arabic,nort3139,apc,Semitic,Aramaic,hert1241,hrt,Semitic,mid,,2,Eurasia,"jastrowmesopotamischarabischen1978, diemzum1971",0,0,0,0,0,1,0,1
+http://afbo.info/pairs/41,Sri Lanka Portuguese,mala1544,,Romance,Tamil,tami1289,tam,Southern Dravidian,mid,,2,Eurasia,"nordhoffcurrent2013, smithsri2013",0,0,0,0,0,0,0,2
+http://afbo.info/pairs/42,Kayardild,kaya1319,gyd,Taustralia & New Guineakic,Northern Nyungic,dese1234,,Pama-Nyungan,high,,1,Australia & New Guinea,"roundkayardild2010, evansgrammar1995",1,0,0,0,0,0,0,0
+http://afbo.info/pairs/43,Sumerian,sume1241,sux,Sumerian,Akkadian,akka1240,akk,Semitic,mid,,1,Eurasia,,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/44,Torau,tora1259,ttu,Oceanic,Naasioi,naas1242,nas,East Bougainville,low,,1,Southeast Asia & Oceania,palmermetatypic2011,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/46,Indonesian,indo1316,ind,Malayic,Arabic,nort3139,apc,Semitic,high,,1,Southeast Asia & Oceania,"verhaarloanwords1984, purwoaffixation1984, tadmorloanwords20091",1,0,0,0,0,0,0,0
+http://afbo.info/pairs/67,Maltese,malt1254,mlt,Semitic,Sicilian Italian,sici1248,scn,Romance,high,3,4,Eurasia,"gardaniborrowing2008, borgmaltese1997, gardaniplural2012, borgevolutionary1994",1,0,0,0,0,3,0,0
+http://afbo.info/pairs/68,Kharia,khar1287,khr,Munda,Sadri,sadr1248,sck,Indic,mid,2,2,Eurasia,"petersongrammar2011, abbilanguages1997, abbimanual2001, abbilanguage1995",0,0,0,0,0,0,0,2
+http://afbo.info/pairs/70,Ingrian Finnish,finn1318,fin,Finnic,Estonian,esto1258,est,Finnic,high,2,2,Eurasia,"riionheimomorfologinen2010, riionheimohow2002",0,0,0,0,0,0,0,2
+http://afbo.info/pairs/72,Malagasy,plat1254,plt,Barito,Swahili,swah1253,swh,Bantoid,mid,,2,Southeast Asia & Oceania,"adelaarmalagasy2012, adelaaraustronesian2005, bowdenamalgamation2010, adelaarloanwords2009",0,0,0,1,0,0,0,1
+http://afbo.info/pairs/73,Malagasy,plat1254,plt,Barito,Banjar Malay,banj1239,bjn,Malayic,mid,,4,Southeast Asia & Oceania,"adelaarmalagasy1995, adelaarmalagasy2012, bowdenamalgamation2010",0,0,0,0,2,0,1,1
+http://afbo.info/pairs/75,Wayampi‑Emerillon‑Zo’é,waya1271,,Tupi-Guarani,intermediate Proto‑Carib,cari1283,,Cariban,mid,,1,South America,roseborrowing2012,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/77,Hawaiian,hawa1245,haw,Oceanic,English,stan1293,eng,Germanic,high,,1,Southeast Asia & Oceania,parkerjonesloanwords2009,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/78,Kola Saami,kild1236,sjd,Finnic,Russian,russ1263,rus,Slavic,high,3,5,Eurasia,"matrasgrammatical20072, rieslerloanwords2009, postnorthern2006, hasselblattkomisaamirussian2011, magistesuffixentlehnung1968",0,0,0,3,1,0,0,1
+http://afbo.info/pairs/82,Western Kurmanji,nort2641,kmr,Iranian,Turkish,nucl1301,tur,Turkic,mid,,1,Eurasia,"matrasgrammatical20075, matrasborrowability2007",0,1,0,0,0,0,0,0
+http://afbo.info/pairs/83,Manange,mana1288,nmm,Bodic,Nepali,nepa1252,nep,Indic,mid,,1,Eurasia,"hildebrandtgrammar2004, matrasgrammatical20071",0,0,0,0,0,1,0,0
+http://afbo.info/pairs/85,Yiddish,east2295,ydd,Germanic,Russian,russ1263,rus,Slavic,mid,11,13,Eurasia,"weinreichyiddish1958, matrasgrammatical20073",2,0,0,6,3,1,0,1
+http://afbo.info/pairs/87,Megleno Romanian,megl1237,ruq,Romance,Bulgarian,bulg1262,bul,Slavic,high,35,35,Eurasia,"gardaniborrowing2008, puscariurumanische1943, capidanmeglenoromanii1925, sandfeldproblemes1938, capidanbilinguisme1940, weinreichlanguages1953",2,0,0,12,9,0,0,12
+http://afbo.info/pairs/88,Arvanitic Albanian,arva1236,aat,Albanian,Greek,mode1248,ell,Greek,high,30,31,Eurasia,"sassearvanitika1991, sassesprachkontakt1985",0,0,0,4,2,14,0,11
+http://afbo.info/pairs/92,Lithuanian Romani,balt1257,rml,Indic,Russian,russ1263,rus,Slavic,high,6,5,Eurasia,tenserlithuanian2005,1,0,0,0,0,0,0,5
+http://afbo.info/pairs/93,Sierra Popoluca,high1276,poi,Mixe-Zoque,Spanish,stan1288,spa,Romance,mid,,1,South America,"gutierrezmoraleskueteero2005, gutierrezmoralesborrowing2008",0,0,0,0,1,0,0,0
+http://afbo.info/pairs/94,Brahui,brah1256,brh,Northern Dravidian,Makrān Baluchi,east2304,bgp,Iranian,high,2,3,Eurasia,"andronovbrahui1980, emeneaubrahui1962, steeverbrahui1998",2,0,0,0,0,0,0,1
+http://afbo.info/pairs/95,Semelai,seme1247,sza,Aslian,Malay,mala1479,zlm,Malayic,high,6,8,Southeast Asia & Oceania,kruspegrammar2004,0,0,0,0,1,0,3,4
+http://afbo.info/pairs/96,Tukang Besi,tuka1248,khc,Sulawesi,Indonesian,indo1316,ind,Malayic,high,,1,Southeast Asia & Oceania,donohuegrammar1999,0,0,0,0,0,0,1,0
+http://afbo.info/pairs/97,Kwerba Kasonaweja,nucl1595,kwe,Kwerba,Warembori,ware1253,wsa,Lower Mamberano,high,3,3,Southeast Asia & Oceania,,0,0,0,0,0,0,0,3
+http://afbo.info/pairs/98,Lezgian,lezg1247,lez,Lezgic,Farsi,west2369,pes,Iranian,high,3,3,Eurasia,haspelmathgrammar1993,0,0,0,0,3,0,0,0
+http://afbo.info/pairs/99,G|ui‑Gǁana,gwii1239,gwj,Central Khoisan,Shua‑Tshwa,naro1249,nhr,Central Khoisan,low,,1,Africa,"vossenkhoesprachen1997, guldemannreconstruction2004",0,0,0,0,0,0,0,1
+http://afbo.info/pairs/100,Central Siberian Yupik Eskimo,cent2128,ess,Eskimo,Chukchi,chuk1273,ckt,Northern Chukotko-Kamchatkan,high,3,3,North America,"miyaokagrammar2012, dereusesiberian1994",0,3,0,0,0,0,0,0
+http://afbo.info/pairs/101,Kayardild,kaya1319,gyd,Taustralia & New Guineakic,Karrwa,gara1261,gbc,Garrwan,high,,1,Australia & New Guinea,,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/102,Kurux,kuru1302,kru,Northern Dravidian,Hindi,hind1269,hin,Indic,mid,6,8,Eurasia,"abbilanguages1997, mishraword1996, abbimanual2001",4,0,0,1,0,2,1,0
+http://afbo.info/pairs/107,Turkish,nucl1301,tur,Turkic,Persian,west2369,pes,Iranian,high,6,7,Eurasia,"memoglusuleymanogluturkcenin2006, vietzerucklaufiges1975, kubiyakrucklaufiges2004, kornfiltturkish1997, gokselturkish2005, nisanyansozlerin2009, zenginturkcenin2009",1,0,0,0,5,1,0,0
+http://afbo.info/pairs/108,Azari,sout2697,azb,Turkic,Persian,west2369,pes,Iranian,high,9,10,Eurasia,dehghanigrammar2000,3,0,0,1,5,1,0,0
+http://afbo.info/pairs/109,Kashmiri,kash1277,kas,Indic,Persian,west2369,pes,Iranian,high,13,13,Eurasia,"walikashmiri1996, bhatdescriptive1987, koulstudies2005",4,0,0,0,4,5,0,0
+http://afbo.info/pairs/110,Khanty,khan1273,kca,Ugric,Komi‑Zyrian,komi1268,kpv,Finnic,high,14,15,Eurasia,"sauersyrjanischen1963, sauernominalbildung1967, magistesuffixentlehnung1968",7,0,0,1,0,1,4,2
+http://afbo.info/pairs/111,Finnish,finn1318,fin,Finnic,Swedish,swed1254,swe,Germanic,high,2,3,Eurasia,magistesuffixentlehnung1968,0,0,0,2,1,0,0,0
+http://afbo.info/pairs/112,"Carapana, Tatuyo, Wáimaja, and Yurutí",tatu1247,tav,Tucanoan,Yucuna and Cabiyarí,yucu1253,ycn,Arawakan,mid,,1,South America,metzgermorpheme1998,0,0,0,0,0,0,0,1
+http://afbo.info/pairs/113,Basque,basq1248,eus,Basque,Latin,lati1261,lat,Romance,high,35,35,Eurasia,"hualdenoun2003, hualdesegmental2003, seguramunguialatin1996, mujikalatina1982, hualdederivation2003, haasesprachkontakt1992, hualdegrammar2003",2,0,0,5,23,5,0,0
+http://afbo.info/pairs/114,Moroccan Arabic,moro1292,ary,Semitic,Moroccan Berber languages,atla1275,,Berber,high,,1,Africa,zelloumoroccan2011,0,0,0,0,1,0,0,0
+http://afbo.info/pairs/116,Wutun,wutu1241,wuh,Chinese-based,Tibetan,tibe1272,bod,Bodic,mid,7,7,Eurasia,"slatergrammar2003, janhunenwutun2008, liverbmedial1984, wurmwutun1996",0,0,2,0,0,0,1,4
+http://afbo.info/pairs/117,Quechua de Puno,puno1238,qxp,Quechuan,Aymara,cent2142,ayr,Aymaran,high,8,9,South America,"hannsuchumataqu2008, wurmquechua1996, adelaaraymarismos1987",0,0,0,0,0,0,0,9
+http://afbo.info/pairs/118,Chinese of Línxìa/Hézōu,mand1415,cmn,Chinese,Santa,dong1285,sce,Mongolic,mid,,1,Eurasia,"dwyeraltaic1992, slatergrammar2003, wurmhezhou1996, liverbmedial1984",0,0,1,0,0,0,0,0
+http://afbo.info/pairs/119,Judeo‑Spanish,ladi1251,lad,Romance,Turkish,nucl1301,tur,Turkic,high,6,6,Eurasia,varolbornesjudeoespagnol2008,0,0,0,1,2,3,0,0
+http://afbo.info/pairs/124,Karelien,kare1335,krl,Finnic,Russian,russ1263,rus,Slavic,mid,6,6,Eurasia,"alvrerussische2002, raunkarelian1964, laanesteinfuhrung1982",0,0,0,6,0,0,0,0
+http://afbo.info/pairs/125,Tariana,tari1256,tae,Arawakan,Eastern Tucanoan languages,east2698,,Tucanoan,high,2,3,North America,"aikhenvaldgrammar2003, aikhenvaldtariana1999, aikhenvaldinvisible2012",0,1,0,0,0,0,0,2
+http://afbo.info/pairs/126,Kalderash Romani,vlax1238,rmy,Indic,Greek,mode1248,ell,Greek,high,2,5,Eurasia,"boretzkymorphologische1991, boretzkyromani1994",1,0,0,1,2,1,0,0
+http://afbo.info/pairs/127,Cho’ol,chol1282,ctu,Mayan,Spanish,stan1288,spa,Romance,high,3,3,North America,"knowlesdescriptive1984, vasquezalvarezgrammar2011, durreinfuhrung2012",0,0,0,0,0,0,0,3
+http://afbo.info/pairs/128,Cho’ol,chol1282,ctu,Mayan,Zoquean languages,zoqu1261,,Mixe-Zoque,high,,1,North America,"martinezcruzadjetivos2007, zavalaoraciones2007, vasquezalvarezgrammar2011",0,0,0,0,0,0,0,1
+http://afbo.info/pairs/130,Western Neo‑Aramaic of Ma’lūla,west2763,amw,Semitic,Arabic,nort3139,apc,Semitic,high,,1,Eurasia,lipinskisemitic1997,1,0,0,0,0,0,0,0
+http://afbo.info/pairs/132,Assamese,assa1263,asm,Indic,Tibeto-Burman languages,brah1260,,Baric,mid,15,15,Eurasia,"goswamiasamiya2003, masicaindoaryan1991, matraslanguage2009",0,0,0,0,0,15,0,0
+http://afbo.info/pairs/133,Tetun Dili,tetu1246,tdt,Tetun-based,Portuguese,port1283,por,Romance,high,,1,Southeast Asia & Oceania,hajeklanguage2006,0,0,0,0,1,0,0,0
+http://afbo.info/pairs/134,Purepecha/Tarascan,pure1242,tsz,Tarascan,Spanish,stan1288,spa,Romance,high,,1,North America,chamoreauspanish2012,0,0,0,1,0,0,0,0
+http://afbo.info/pairs/135,Mexicanero de la Sierra Madre Occidental,dura1245,nln,Aztecan,Spanish,stan1288,spa,Romance,high,,1,North America,chamoreauspanish2012,0,0,0,1,0,0,0,0
+http://afbo.info/pairs/136,Yucatec Maya,yuca1254,yua,Mayan,Spanish,stan1288,spa,Romance,high,,1,North America,chamoreauspanish2012,0,0,0,1,0,0,0,0
+http://afbo.info/pairs/137,Kedang,keda1252,ksx,Central Malayo-Polynesian,Indonesian,indo1316,ind,Malayic,low,,1,Southeast Asia & Oceania,"matraslanguage2009, samelykedang1991",0,0,0,0,1,0,0,0
+http://afbo.info/pairs/138,Iraqi Arabic,meso1252,acm,Semitic,Turkish,nucl1301,tur,Turkic,high,4,4,Eurasia,"masliyahfour1996, nisanyansozlerin2009",0,0,0,0,3,1,0,0
+http://afbo.info/pairs/139,Alabama and Choctaw‑Chickasaw,choc1276,cho,Muskogean,Quapaw,quap1242,qua,Siouan,mid,,1,North America,shipleyquapaw1988,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/140,Kharia,khar1287,khr,Munda,Hindi,hind1269,hin,Indic,mid,,1,Eurasia,petersongrammar2011,0,0,0,0,0,0,0,1
+http://afbo.info/pairs/142,German,stan1295,deu,Germanic,Latvian,latv1249,lav,Baltic,high,,1,Eurasia,polanskazum2002,0,0,0,0,1,0,0,0
+http://afbo.info/pairs/143,Amuesha,yane1238,ame,Arawakan,Quechua,nort2980,qvn,Quechuan,mid,2,3,South America,"adelaarquechua2006, dufftrippgramatica1997",0,2,1,0,0,0,0,0
+http://afbo.info/pairs/144,Moghol,mogh1245,mhj,Mongolic,Tajik,taji1245,tgk,Iranian,high,6,7,Eurasia,janhunenmoghol2003,2,0,1,0,0,4,0,0
+http://afbo.info/pairs/145,Dagur,daur1238,dta,Mongolic,Chinese,mand1415,cmn,Chinese,high,,1,Eurasia,janhunendagur2003,0,0,0,0,0,1,0,0
+http://afbo.info/pairs/146,Hungarian,hung1274,hun,Ugric,Croatian,croa1245,hrv,Slavic,high,,1,Eurasia,fuchskomparativ1949,1,0,0,0,0,0,0,0
+http://afbo.info/pairs/147,Dagur,daur1238,dta,Mongolic,Evenki,even1259,evn,Tungusic,high,3,3,Eurasia,janhunendagur2003,0,0,0,0,0,3,0,0
+http://afbo.info/pairs/148,Santa,dong1285,sce,Mongolic,Chinese,mand1415,cmn,Chinese,high,5,7,Eurasia,janhunensanta2003,0,0,0,0,5,1,1,0
+http://afbo.info/pairs/149,Middle Mongolic,,mon,Mongolic,Turkic,turk1311,,Turkic,mid,3,6,Eurasia,janhunenturcomongolic2003,0,0,3,0,1,1,0,1
+http://afbo.info/pairs/150,Ndunga-le,ndun1249,ndt,Ubangi,Lingala,ling1263,lin,Bantoid,high,4,4,Africa,paschentlehnung1988,0,0,0,4,0,0,0,0
+http://afbo.info/pairs/151,Ilwana,ilwa1237,mlk,Bantoid,Cushitic,,orm,Eastern Cushitic,mid,4,4,Africa,mohligaspects1986,0,0,0,0,0,4,0,0
+http://afbo.info/pairs/152,South Swahili,swah1253,swh,Bantoid,North Swahili,swah1253,swh,Bantoid,high,,2,Africa,"guldemanngrammaticalization2003, guldemannist1992",0,0,0,0,0,0,0,2
+http://afbo.info/pairs/153,Central Mexicano Nahuatl,mich1245,ncl,Aztecan,Spanish,stan1288,spa,Romance,high,2,3,North America,hillspeaking1986,0,0,0,2,1,0,0,0

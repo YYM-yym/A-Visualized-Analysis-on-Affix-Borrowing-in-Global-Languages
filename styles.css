@@ -1,0 +1,103 @@
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('back.jpg');
+    background-size: 300% 300%;
+    -moz-background-size: 100% 100%;
+    width: 1650px;
+    height: 600px;
+}
+
+h1 {
+    margin: 100px;
+    color: #fff;
+    font-size: 55px;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: Baskerville;
+}
+
+h3 {
+    margin: 100px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: lighter;
+    position: absolute;
+    top: 325px;
+    left: 0;
+    font-family: Baskerville;
+}
+
+div.tooltip {
+    position: absolute;
+    padding: 0.55rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    white-space: nowrap;
+    color: #000;
+    border-radius: 50px;
+    background-color: #fff;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    opacity: 0;
+    /*          transition: all 0.2s ease-in-out;*/
+}
+
+#issMap {
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    margin: 75px;
+    top: 700px;
+}
+
+.container {
+    position: relative;
+    margin-top: 100px;
+}
+
+div.show {
+    opacity: 1;
+    /* transition: all 0.2s ease-in-out; */
+}
+
+line,
+circle {
+    position: relative;
+}
+
+#root {
+    /* position: absolute; */
+    /* margin: 50px; */
+    /* top: 450px; */
+    /* left: 650px; */
+}
+
+.node {
+    position: absolute;
+    margin: 50px;
+    top: 450px;
+    left: 650px;
+}
+
+.container2 {
+    background-color: grey;
+    opacity: 0.7;
+    position: absolute;
+    margin: 50px;
+    top: 500px;
+}
+
+.container3 {
+    background-color: grey;
+    opacity: 0.7;
+    position: absolute;
+    margin: 50px;
+    top: 5px;
+    left: 750px;
+    border-radius: 600px;
+}

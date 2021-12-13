@@ -1,0 +1,169 @@
+﻿Language_index,Language,Population,Count,Donor,Affix_num,Donor_index,Macroarea
+1000.0,Resígaro,1,1,Bora,50,1092.0,South America
+1001.0,Gurindji Kriol,1000,1,Gurindji,19,1093.0,Australia & New Guinea
+1002.0,Copper Island Aleut,6000,1,Russian,15,1094.0,Eurasia
+1003.0,Sakha,450000,2,Mongolian,14,1095.0,Eurasia
+1004.0,Kalderash Romani,200000,1,Romanian,11,1096.0,Eurasia
+1004.0,Kalderash Romani,200000,1,Greek,5,1106.0,Eurasia
+1005.0,Sebjan‑Küöl Ėven,250,1,Sakha,22,1003.0,Eurasia
+1006.0,Northern Tajik,8100000,1,Uzbek,11,1097.0,Eurasia
+1007.0,Indonesian,210000000,2,Sanskrit,18,1098.0,Southeast Asia & Oceania
+1007.0,Indonesian,210000000,2,Dutch,13,1105.0,Southeast Asia & Oceania
+1007.0,Indonesian,210000000,2,Arabic,1,1122.0,Southeast Asia & Oceania
+1008.0,Uchur Ėvenki,38400,1,Sakha,8,1003.0,Eurasia
+1009.0,Middle English,0,1,Norman French,8,1099.0,Eurasia
+1010.0,Chabacano,700000,1,Visayan,8,1100.0,Southeast Asia & Oceania
+1011.0,Bilin,91000,1,Tigre,8,1101.0,Africa
+1012.0,Albanian,7500000,1,Bosnian/Croatian/Serbian,14,1102.0,Eurasia
+1012.0,Albanian,7500000,1,Turkish,6,1057.0,Eurasia
+1013.0,Cajamarca Quechua,30000,1,Spanish,7,1103.0,South America
+1014.0,Uru,5343,1,Aymara,6,1104.0,South America
+1015.0,Israeli Hebrew,9000000,1,Russian,6,1094.0,Eurasia
+1016.0,Cappadocian Greek,2800,1,Turkish,5,1057.0,Eurasia
+1017.0,Kormakiti,140,1,Greek,5,1106.0,Eurasia
+1018.0,Siwi,20000,1,Libyan Arabic,5,1107.0,Africa
+1019.0,Warndarang,0,1,Nunggubuyu,5,1108.0,Australia & New Guinea
+1020.0,Garifuna,200000,1,Carib,2,1109.0,North America
+1021.0,Mari,500000,1,Chuvash,12,1110.0,Eurasia
+1022.0,Chantyal,4300,1,Nepali,4,1111.0,Eurasia
+1023.0,Ritharngu,32,1,Ngandi,4,1026.0,Australia & New Guinea
+1024.0,Guina‑ang Bontok,19600,1,Ilokano,3,1112.0,Southeast Asia & Oceania
+1025.0,Sonqor Turkic,40000,1,Kurdish,5,1113.0,Eurasia
+1026.0,Ngandi,0,1,Ritharngu,2,1023.0,Australia & New Guinea
+1027.0,Danisi,2000,1,Kxoe languages,2,1114.0,Africa
+1028.0,Istro‑Romanian,1100,1,Croatian,8,1115.0,Eurasia
+1029.0,Koasati,370,1,Quapaw,1,1116.0,North America
+1030.0,Hasankeyf Arabic,9921,1,Aramaic,2,1117.0,Eurasia
+1031.0,Sri Lanka Portuguese,30,1,Tamil,2,1118.0,Eurasia
+1032.0,Kayardild,25,1,Northern Nyungic,1,1119.0,Australia & New Guinea
+1032.0,Kayardild,25,1,Karrwa,1,1137.0,Australia & New Guinea
+1033.0,Sumerian,0,1,Akkadian,1,1120.0,Eurasia
+1034.0,Torau,600,1,Naasioi,1,1121.0,Southeast Asia & Oceania
+1035.0,Maltese,520000,1,Sicilian Italian,4,1123.0,Eurasia
+1036.0,Kharia,297614,1,Sadri,2,1124.0,Eurasia
+1036.0,Kharia,297614,1,Hindi,1,1138.0,Eurasia
+1037.0,Ingrian Finnish,120,1,Estonian,2,1125.0,Eurasia
+1038.0,Malagasy,25000000,1,Swahili,2,1126.0,Africa
+1038.0,Malagasy,25000000,1,Banjar Malay,4,1127.0,Africa
+1039.0,Wayampi‑Emerillon‑Zo’é,150,1,intermediate Proto‑Carib,1,1128.0,South America
+1040.0,Hawaiian,24000,1,English,1,1129.0,Southeast Asia & Oceania
+1041.0,Kola Saami,35000,1,Russian,5,1094.0,Eurasia
+1042.0,Western Kurmanji,15000000,1,Turkish,1,1057.0,Eurasia
+1043.0,Manange,390,1,Nepali,1,1111.0,Eurasia
+1044.0,Yiddish,2000000,1,Russian,13,1094.0,Eurasia
+1045.0,Megleno Romanian,5000,1,Bulgarian,35,1130.0,Eurasia
+1046.0,Arvanitic Albanian,200000,1,Greek,31,1106.0,Eurasia
+1047.0,Lithuanian Romani,3000,1,Russian,5,1094.0,Eurasia
+1048.0,Sierra Popoluca,36000,1,Spanish,1,1103.0,North America
+1049.0,Brahui,2567677,1,Makrān Baluchi,3,1131.0,Eurasia
+1050.0,Semelai,4100,1,Malay,8,1132.0,Eurasia
+1051.0,Tukang Besi,250000,1,Indonesian,1,1007.0,Australia & New Guinea
+1052.0,Kwerba Kasonaweja,2500,1,Warembori,3,1133.0,Southeast Asia & Oceania
+1053.0,Lezgian,800000,1,Farsi,3,1134.0,Eurasia
+1054.0,G|ui‑Gǁana,2500,1,Shua‑Tshwa,1,1135.0,Africa
+1055.0,Central Siberian Yupik Eskimo,1200,1,Chukchi,3,1136.0,Eurasia
+1056.0,Kurux,2084390,1,Hindi,8,1138.0,Eurasia
+1057.0,Turkish,75700000,5,Persian,7,1139.0,Eurasia
+1058.0,Azari,30000000,1,Persian,10,1139.0,Eurasia
+1059.0,Kashmiri,7000000,1,Persian,13,1139.0,Eurasia
+1060.0,Khanty,9600,1,Komi‑Zyrian,15,1140.0,Eurasia
+1061.0,Finnish,5800000,1,Swedish,3,1141.0,Eurasia
+1062.0,"Carapana, Tatuyo, Wáimaja, and Yurutí",1200,1,Yucuna and Cabiyarí,1,1142.0,South America
+1063.0,Basque,750000,1,Latin,35,1143.0,Eurasia
+1064.0,Moroccan Arabic,21000000,1,Moroccan Berber languages,1,1144.0,Africa
+1065.0,Wutun,4000,1,Tibetan,7,1145.0,Eurasia
+1066.0,Quechua de Puno,500000,1,Aymara,9,1104.0,South America
+1067.0,Chinese of Línxìa/Hézōu,2012100,1,Santa,1,1086.0,Eurasia
+1068.0,Judeo‑Spanish,133016,1,Turkish,6,1057.0,Eurasia
+1069.0,Karelien,36000,1,Russian,6,1094.0,Eurasia
+1070.0,Tariana,100,1,Eastern Tucanoan languages,3,1146.0,South America
+1071.0,Cho’ol,90000,1,Spanish,3,1103.0,North America
+1071.0,Cho’ol,90000,1,Zoquean languages,1,1147.0,North America
+1072.0,Western Neo‑Aramaic of Ma’lūla,21700,1,Arabic,1,1122.0,Eurasia
+1073.0,Assamese,15095797,1,Tibeto-Burman languages,15,1148.0,Eurasia
+1074.0,Tetun Dili,390000,1,Portuguese,1,1149.0,Southeast Asia & Oceania
+1075.0,Purepecha/Tarascan,175000,1,Spanish,1,1103.0,North America
+1076.0,Mexicanero de la Sierra Madre Occidental,1300,1,Spanish,1,1103.0,North America
+1077.0,Yucatec Maya,800000,1,Spanish,1,1103.0,North America
+1078.0,Kedang,30000,1,Indonesian,1,1007.0,Southeast Asia & Oceania
+1079.0,Iraqi Arabic,15700000,1,Turkish,4,1057.0,Eurasia
+1080.0,Alabama and Choctaw‑Chickasaw,35000,1,Quapaw,1,1116.0,North America
+1081.0,German,155000000,1,Latvian,1,1150.0,Eurasia
+1082.0,Amuesha,8700,1,Quechua,3,1151.0,South America
+1083.0,Moghol,200,1,Tajik,7,1152.0,Eurasia
+1084.0,Dagur,96000,1,Chinese,1,1153.0,Eurasia
+1084.0,Dagur,96000,1,Evenki,3,1154.0,Eurasia
+1085.0,Hungarian,13000000,1,Croatian,1,1115.0,Eurasia
+1086.0,Santa,200000,1,Chinese,7,1153.0,Eurasia
+1087.0,Middle Mongolic,0,1,Turkic,6,1155.0,Eurasia
+1088.0,Ndunga-le,2500,1,Lingala,4,1156.0,Africa
+1089.0,Ilwana,17000,1,Cushitic,4,1157.0,Africa
+1090.0,South Swahili,18000000,1,North Swahili,2,1158.0,Africa
+1091.0,Central Mexicano Nahuatl,1700000,1,Spanish,3,1103.0,North America
+1092.0,Bora,2400,2,,,,South America
+1093.0,Gurindji,240,2,,,,Australia & New Guinea
+1094.0,Russian,150000000,7,,,,Eurasia
+1095.0,Mongolian,5200000,2,,,,Eurasia
+1096.0,Romanian,26000000,2,,,,Eurasia
+1097.0,Uzbek,27000000,2,,,,Eurasia
+1098.0,Sanskrit,24821,2,,,,Eurasia
+1099.0,Norman French,105300,2,,,,Eurasia
+1100.0,Visayan,27500000,2,,,,Southeast Asia & Oceania
+1101.0,Tigre,1000000,2,,,,Africa
+1102.0,Bosnian/Croatian/Serbian,21000000,2,,,,Eurasia
+1103.0,Spanish,586000000,8,,,,Eurasia
+1104.0,Aymara,1700000,3,,,,South America
+1105.0,Dutch,23000000,2,,,,Eurasia
+1106.0,Greek,13000000,4,,,,Eurasia
+1107.0,Libyan Arabic,6095000,2,,,,Africa
+1108.0,Nunggubuyu,272,2,,,,Australia & New Guinea
+1109.0,Carib,7430,2,,,,South America
+1110.0,Chuvash,1042989,2,,,,Eurasia
+1111.0,Nepali,16000000,3,,,,Eurasia
+1112.0,Ilokano,8100000,2,,,,Southeast Asia & Oceania
+1113.0,Kurdish,30000000,2,,,,Eurasia
+1114.0,Kxoe languages,8000,2,,,,Africa
+1115.0,Croatian,5600000,3,,,,Eurasia
+1116.0,Quapaw,1,3,,,,North America
+1117.0,Aramaic,850000,2,,,,Eurasia
+1118.0,Tamil,76000000,2,,,,Eurasia
+1119.0,Northern Nyungic,100,2,,,,Australia & New Guinea
+1120.0,Akkadian,0,2,,,,Eurasia
+1121.0,Naasioi,20000,2,,,,Southeast Asia & Oceania
+1122.0,Arabic,422000000,3,,,,Eurasia
+1123.0,Sicilian Italian,4700000,2,,,,Eurasia
+1124.0,Sadri,5100000,2,,,,Eurasia
+1125.0,Estonian,1100000,2,,,,Eurasia
+1126.0,Swahili,150000000,2,,,,Africa
+1127.0,Banjar Malay,1245825,2,,,,Southeast Asia & Oceania
+1128.0,intermediate Proto‑Carib,30000,2,,,,South America
+1129.0,English,1350000000,2,,,,South America
+1130.0,Bulgarian,5400000,2,,,,Eurasia
+1131.0,Makrān Baluchi,9000000,2,,,,Eurasia
+1132.0,Malay,290000000,2,,,,Eurasia
+1133.0,Warembori,600,2,,,,Southeast Asia & Oceania
+1134.0,Farsi,110000000,2,,,,Eurasia
+1135.0,Shua‑Tshwa,2000,2,,,,Africa
+1136.0,Chukchi,5095,2,,,,Eurasia
+1137.0,Karrwa,59,2,,,,Australia & New Guinea
+1138.0,Hindi,528347193,3,,,,Eurasia
+1139.0,Persian,62000000,4,,,,Eurasia
+1140.0,Komi‑Zyrian,285000,2,,,,Eurasia
+1141.0,Swedish,10000000,2,,,,Eurasia
+1142.0,Yucuna and Cabiyarí,1800,2,,,,South America
+1143.0,Latin,2000,2,,,,Eurasia
+1144.0,Moroccan Berber languages,14000000,2,,,,Africa
+1145.0,Tibetan,6000000,2,,,,Eurasia
+1146.0,Eastern Tucanoan languages,30000,2,,,,North America
+1147.0,Zoquean languages,74000,2,,,,North America
+1148.0,Tibeto-Burman languages,60000000,2,,,,Eurasia
+1149.0,Portuguese,220000000,2,,,,Eurasia
+1150.0,Latvian,1300000,2,,,,Eurasia
+1151.0,Quechua,7700000,2,,,,South America
+1152.0,Tajik,8100000,2,,,,Eurasia
+1153.0,Chinese,1300000000,3,,,,Eurasia
+1154.0,Evenki,26580,2,,,,Eurasia
+1155.0,Turkic,170000000,2,,,,Eurasia
+1156.0,Lingala,10000000,2,,,,Africa
+1157.0,Cushitic,67200000,2,,,,Africa
+1158.0,North Swahili,2000000,2,,,,Africa

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=\, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+      integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+      crossorigin=""
+    ></script>
+    <!-- <script type="text/javascript" src="lan_info1.json"></script> -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3-path.v2.min.js"></script>
+    <script src="https://d3js.org/d3-shape.v2.min.js"></script>
+    <script crossingin src="https://unpkg.com/react/umd/react.development.js"></script>
+    <script crossingin src="https://unpkg.com/react-dom/umd/react-dom.development.js"></script>
+    <script crossingin src="https://unpkg.com/babel-standalone/babel.js"></script>
+    <!-- <script src="main.js"></script>
+    <style>
+      #issMap {
+        height: 600px;
+        width: 1000px;
+      }
+      .container {
+        position: relative;
+      }
+      div.tooltip {
+        position: absolute;
+        padding: 0.55rem 1rem;
+        font-size: 0.5rem;
+        font-weight: 500;
+        white-space: nowrap;
+        color: #000;
+        border-radius: 50px;
+        background-color: #fff;
+        box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+        pointer-events: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        opacity: 0;
+        /*          transition: all 0.2s ease-in-out;*/
+      }
+      div.show {
+        opacity: 1;
+        transition: all 0.2s ease-in-out;
+      }
+      line,
+      circle {
+        position: relative;
+      }
+    </style> -->
+
+    <title>Language Map</title>
+  </head>
+
+  <body>
+    <h1>Worldwide Languages'</h1>
+    <h1 style="top:80px; font-size: 80px;">Affix Relationship</h1>
+    <h1 style="top:180px; font-size: 80px;">Visualization</h1>
+    <h3>Read it, Learn it, Use it.</h3>
+    <div class="container2" style="width: 650px; height: 450px; top: 700px"></div>
+    <div class="container2" style="width: 175px; height: 130px; top: 1170px; left:75px"></div>
+    <!-- <div class="container2" style="width: 1015px; height: 275px; top:675px; left:750px"></div> -->
+    <div class="container3" style="width: 600px; height: 600px;"></div>
+
+    <div>
+      <div style="display: flex; align-items: center">
+        <span id="issMap"></span>
+        <span style="display: flex; align-items: center">
+          <span style = "position:absolute; left: 800px; top:750px" id="root"></span>
+          <span style="display: inline-block; width: 700px; height: 200px; position: absolute; top:900px; left:750px">
+            <svg id="chartx" style = "position:absolute; left: 600px; top:-600px" width="700" height="200"></svg>
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div>
+      <span style="display: inline-block; width: 800px; height: 600px"></span>
+      <span style="display: inline-block; width: 800px; height: 600px">
+        <div class="container">
+          <div id="rootnode" style="position: absolute; top:-25px; left:-100px"></div>
+          <div class="tooltip"></div>
+        </div>
+      </span>
+    </div>
+
+    <svg id="charty" style = "position:absolute; left: 100px; top: 970px" width="500" height="500"></svg>
+    <script src="map_legend.js"></script>
+
+
+    <script src="map.js"></script>
+
+    <script type="text/babel" src="nodelink.js"></script>
+
+    <script type="text/babel" src="bar.js"></script>
+
+    <script src="Pie.js"></script>
+  </body>
+</html>
